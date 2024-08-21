@@ -1,0 +1,19 @@
+h1{
+    text-decoration: wavy overline;
+    color:rgb(45,67,78);
+}
+p{
+    background:red;
+}
+h2{
+    text-decoration:dotted red line-through;
+    color:orange;
+}
+button{
+    color:#ffffff;
+    background-color: #000000;
+}
+p{
+    color:white;
+    background-color: black;
+}
