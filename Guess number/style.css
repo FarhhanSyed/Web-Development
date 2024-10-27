@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+h1{
+    background-color: rgb(43, 42, 42);   
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+#wrapper{
+    height: 500px;
+    width: 500px;
+    background-color: rgb(89, 88, 88) ;
+}
+#guess{
+    font-size: 40px;
+}
+.guessField{
+    border: 2px solid grey;
+    padding-top: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin: 20px 0 20px 0;
+}
+#subt{
+    background-color: rgb(26, 25, 25);
+    border-radius: 8px;
+    padding: 10px 25px 10px 25px;
+    color:white;
+}
